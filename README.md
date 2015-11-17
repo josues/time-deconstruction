@@ -51,7 +51,7 @@ Note: Now the algorithm knows the time by itself and refreshes it every minute.
 **Result:**
 
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-4.jpg)
-**[Micro-Site: New form every minute]**(http://josues.github.io/time-deconstruction-page)
+**[Micro-Site: New form every minute](http://josues.github.io/time-deconstruction-page)**
 
 
 ### STEP three.two: RECONSTRUCT THE CLOCK.
