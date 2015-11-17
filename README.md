@@ -8,7 +8,9 @@ The following verbal algorithm has been handed to 10 people. To execute the algo
 
 *Draw a free but closed form without a break. Look at a watch. Draw a point outside of the form for each completed hour (1-12). Then draw a point inside of the form for every completed ten minutes of the current hour (0-5). Connect every point with the nearest point of the form.*
 
-### Some results:
+### Three results:
+
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-1.jpg)
 
 
 ## STEP two.one. DIGITALIZE THE ALGORITHM.
