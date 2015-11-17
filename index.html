@@ -52,7 +52,7 @@
 <h3>
 <a id="algorithm-2" class="anchor" href="#algorithm-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>Algorithm 2:</h3>
 
-<p>Still a very restricted form. Variable square with four points each inside and outside.</p>
+<p>Its is still a very restricted form. A variable square with four points each inside and outside.</p>
 
 <h3>
 <a id="result" class="anchor" href="#result" aria-hidden="true"><span class="octicon octicon-link"></span></a>Result:</h3>
@@ -65,8 +65,8 @@
 <h3>
 <a id="algorithm-3" class="anchor" href="#algorithm-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Algorithm 3:</h3>
 
-<p>Less restricted form. The form gets an additional edge for each hour <em>(1-12)</em>. Points outside are the completed ten minutes of the current hour <em>(0-5)</em>. New: The inner points represent every minute of the current ten minutes <em>(0-9)</em>. For Example 10:44 would be a form with 10 edges, 4 outer and 4 inner points.
-Algorithm still not able to know the time by itself, edges and points have to be programmed for each possible constellation.</p>
+<p>The Form is now less restricted. It gets an additional edge for each hour <em>(1-12)</em>. The points outside are the completed ten minutes of the current hour <em>(0-5)</em> from algorithm 1. New: The inner points represent every minute of the current ten minutes <em>(0-9)</em>. For example 10:44 would be a form with 10 edges, 4 outer and 4 inner points.
+The algorithm is still not able to know the time by itself, edges and points have to be programmed for each possible constellation.</p>
 
 <h3>
 <a id="result-1" class="anchor" href="#result-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Result:</h3>
@@ -83,7 +83,9 @@ Algorithm still not able to know the time by itself, edges and points have to be
 The time is represented with an invisible circle. For each hour <em>(1-12)</em> the circle gets a visible edge, that is connected to the previous and first edge. Additionally the circles edges get an offset, so in the end the clock-typical round circle form is not longer recognizable.</p>
 
 <p><strong>Deconstruction two.</strong> The clock-hands:
-The time is also represented with hands. As in algorithm 3 there are two kinds of hands. But instead of out- and inside hands, there are thin and thick hands in reading direction, from left to right. They are connected to the first edge of the circle, which is at the forms bottom. This way the hands look like they would have fallen from their traditional center point of a clock to the ground. The right and thiner hands represent the completed ten minutes of the current hour <em>(0-5)</em>. The left and thicker hands represent every minute of the current ten minutes <em>(0-9)</em>. For Example 12:31 would now be a deconstructed circle with 12 edges, 3 thin and 1 thicker points and lines.</p>
+The time is also represented with hands. As in algorithm 3 there are two kinds of hands. But instead of out- and inside hands, there are thin and thick hands in reading direction, from left to right. They are connected to the first edge of the circle, which is at the forms bottom. This way the hands look like they would have fallen from their traditional center point of a clock to the ground. The right and thiner hands represent the completed ten minutes of the current hour <em>(0-5)</em>. The left and thicker hands represent every minute of the current ten minutes <em>(0-9)</em>. For example 12:31 would now be a deconstructed circle with 12 edges, 3 thin and 1 thicker points and lines.</p>
+
+<p>Note: Now the algorithm knows the time by itself and refreshes it every minute.</p>
 
 <h3>
 <a id="result-2" class="anchor" href="#result-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>Result:</h3>
