@@ -1,7 +1,7 @@
 ## CLOCK DECONSTRUCTION
 
 
-# STEP one: ANALOG ALGORITHM.
+### STEP one: ANALOG ALGORITHM.
 
 The following verbal algorithm has been handed to 10 people. To execute the algorithm they had to use the same canvas and pencil.
 
@@ -14,7 +14,7 @@ The following verbal algorithm has been handed to 10 people. To execute the algo
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-1.jpg)
 
 
-# STEP two.one: DIGITALIZE THE ALGORITHM.
+### STEP two.one: DIGITALIZE THE ALGORITHM.
 
 **Algorithm 2:**
 
@@ -24,7 +24,7 @@ Its is still a very restricted form. A variable square with four points each ins
 
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-2.jpg)
 
-# STEP two.two: GIVE TIME-INPUT.
+### STEP two.two: GIVE TIME-INPUT.
 
 **Algorithm 3:**
 
@@ -36,7 +36,7 @@ The algorithm is still not able to know the time by itself, edges and points hav
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-3.jpg)
 
 
-# STEP three.one: DECONSTRUCT THE CLOCK.
+### STEP three.one: DECONSTRUCT THE CLOCK.
 
 **Algorithm 4:**
 
@@ -54,7 +54,7 @@ Note: Now the algorithm knows the time by itself and refreshes it every minute.
 **[Micro-Site: New form every minute]**(http://josues.github.io/time-deconstruction-page)
 
 
-# STEP three.two: RECONSTRUCT THE CLOCK.
+### STEP three.two: RECONSTRUCT THE CLOCK.
 
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/BigBen-Deconstruct.jpg)
 
