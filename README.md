@@ -1,5 +1,6 @@
 # CLOCK DECONSTRUCTION
 
+
 ## STEP one. ANALOGE ALGORITHM.
 
 The following verbal algorithm has been handed to 10 people. To execute the algorithm they had to use the same canvas and pencil.
@@ -34,6 +35,7 @@ Algorithm still not able to know the time by itself, edges and points have to be
 
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-3.jpg)
 
+
 ## STEP three.one. DECONSTRUCT THE CLOCK.
 
 ### Algorithm 4:
@@ -46,14 +48,9 @@ The time is also represented with hands. As in algorithm 3 there are two kinds o
 
 ### Result:
 
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-4.jpg)
 
-
-
-
-
-Micro-Site: New form every minute:
-
-
+[Micro-Site: New form every minute](http://josues.github.io/time-deconstruction-page)
 
 
 ## STEP three.two. RECONSTRUCT THE CLOCK.
