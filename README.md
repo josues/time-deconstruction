@@ -19,16 +19,9 @@ The following verbal algorithm has been handed to 10 people. To execute the algo
 
 Still a very restricted form. Variable square with four points each inside and outside.
 
-
-
-
-
-
-
-
-
-
 ### Result:
+
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-2.jpg)
 
 ## STEP two.two. GIVE TIME-INPUT.
 
@@ -38,6 +31,8 @@ Less restricted form. The form gets an additional edge for each hour *(1-12)*. P
 Algorithm still not able to know the time by itself, edges and points have to be programmed for each possible constellation.
 
 ### Result:
+
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-3.jpg)
 
 ## STEP three.one. DECONSTRUCT THE CLOCK.
 
@@ -62,3 +57,9 @@ Micro-Site: New form every minute:
 
 
 ## STEP three.two. RECONSTRUCT THE CLOCK.
+
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/BigBen-Deconstruct.jpg)
+
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Bahnhofsuhr-Deconstruct.jpg)
+
+![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Armband-Deconstruct.jpg)
