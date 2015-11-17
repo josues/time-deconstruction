@@ -40,10 +40,10 @@ Algorithm still not able to know the time by itself, edges and points have to be
 
 ### Algorithm 4:
 
-Deconstruction one. The circle:
+**Deconstruction one.** The circle:
 The time is represented with an invisible circle. For each hour *(1-12)* the circle gets a visible edge, that is connected to the previous and first edge. Additionally the circles edges get an offset, so in the end the clock-typical round circle form is not longer recognizable.
 
-Deconstruction two: The clock-hands:
+**Deconstruction two.** The clock-hands:
 The time is also represented with hands. As in algorithm 3 there are two kinds of hands. But instead of out- and inside hands, there are thin and thick hands in reading direction, from left to right. They are connected to the first edge of the circle, which is at the forms bottom. This way the hands look like they would have fallen from their traditional center point of a clock to the ground. The right and thiner hands represent the completed ten minutes of the current hour *(0-5)*. The left and thicker hands represent every minute of the current ten minutes *(0-9)*. For Example 9:48 would now be a deconstructed circle with 9 edges, 4 thin and 8 thicker points and lines.
 
 ### Result:
