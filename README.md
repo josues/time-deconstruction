@@ -18,7 +18,7 @@ The following verbal algorithm has been handed to 10 people. To execute the algo
 
 ### Algorithm 2:
 
-Still a very restricted form. Variable square with four points each inside and outside.
+Its is still a very restricted form. A variable square with four points each inside and outside.
 
 ### Result:
 
@@ -28,8 +28,8 @@ Still a very restricted form. Variable square with four points each inside and o
 
 ### Algorithm 3:
 
-Less restricted form. The form gets an additional edge for each hour *(1-12)*. Points outside are the completed ten minutes of the current hour *(0-5)*. New: The inner points represent every minute of the current ten minutes *(0-9)*. For Example 10:44 would be a form with 10 edges, 4 outer and 4 inner points.
-Algorithm still not able to know the time by itself, edges and points have to be programmed for each possible constellation.
+The Form is now less restricted. It gets an additional edge for each hour *(1-12)*. The points outside are the completed ten minutes of the current hour *(0-5)* from algorithm 1. New: The inner points represent every minute of the current ten minutes *(0-9)*. For example 10:44 would be a form with 10 edges, 4 outer and 4 inner points.
+The algorithm is still not able to know the time by itself, edges and points have to be programmed for each possible constellation.
 
 ### Result:
 
@@ -44,7 +44,9 @@ Algorithm still not able to know the time by itself, edges and points have to be
 The time is represented with an invisible circle. For each hour *(1-12)* the circle gets a visible edge, that is connected to the previous and first edge. Additionally the circles edges get an offset, so in the end the clock-typical round circle form is not longer recognizable.
 
 **Deconstruction two.** The clock-hands:
-The time is also represented with hands. As in algorithm 3 there are two kinds of hands. But instead of out- and inside hands, there are thin and thick hands in reading direction, from left to right. They are connected to the first edge of the circle, which is at the forms bottom. This way the hands look like they would have fallen from their traditional center point of a clock to the ground. The right and thiner hands represent the completed ten minutes of the current hour *(0-5)*. The left and thicker hands represent every minute of the current ten minutes *(0-9)*. For Example 12:31 would now be a deconstructed circle with 12 edges, 3 thin and 1 thicker points and lines.
+The time is also represented with hands. As in algorithm 3 there are two kinds of hands. But instead of out- and inside hands, there are thin and thick hands in reading direction, from left to right. They are connected to the first edge of the circle, which is at the forms bottom. This way the hands look like they would have fallen from their traditional center point of a clock to the ground. The right and thiner hands represent the completed ten minutes of the current hour *(0-5)*. The left and thicker hands represent every minute of the current ten minutes *(0-9)*. For example 12:31 would now be a deconstructed circle with 12 edges, 3 thin and 1 thicker points and lines.
+
+Note: Now the algorithm knows the time by itself and refreshes it every minute.
 
 ### Result:
 
