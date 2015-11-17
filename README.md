@@ -49,7 +49,6 @@ The time is also represented with hands. As in algorithm 3 there are two kinds o
 ### Result:
 
 ![](https://raw.githubusercontent.com/josues/time-deconstruction/master/Visuals/Pres-4.jpg)
-
 ### [Micro-Site: New form every minute](http://josues.github.io/time-deconstruction-page)
 
 
