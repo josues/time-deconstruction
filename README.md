@@ -1,9 +1,17 @@
 ## CLOCK DECONSTRUCTION
 
+This work is part of a class at the University of Applied Sciences Potsdam. The project engages in analog and digital generative design. 
+Initially an analog algorithm has been written. Inspiration was supported by algorithms, Sol LeWitt uses to give his assistants to execute art works in his name. This initially analog algorithm has been extended and developed over many iterations and finally digitalised and transformed. In the final stage an application was found for the algorithm.
 
-### STEP one: ANALOG ALGORITHM.
-
+### STEP one.one: ANALOG ALGORITHM.
 The following verbal algorithm has been handed to 10 people. To execute the algorithm they had to use the same canvas and pencil.
+
+**Algorithm 2**
+
+*Draw a free but closed form without a break. Draw a  10 points outside of the form and 5 points inside of the form. Connect every point with the nearest point of the form.*
+
+### STEP one.two: ADD PARAMETERS.
+The following verbal algorithm has again been handed to 10 different people. To execute the algorithm they had to use the same canvas and pencil.
 
 **Algorithm 1**
 
