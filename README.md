@@ -6,8 +6,7 @@ Initially an analog algorithm has been written. Inspiration was supported by alg
 ### STEP one.one: ANALOG ALGORITHM.
 The following verbal algorithm has been handed to 10 people. To execute the algorithm they had to use the same canvas and pencil.
 
-**Algorithm 1**
-
+#### Algorithm 1
 *Draw a free but closed form without a break. Draw a  10 points outside of the form and 5 points inside of the form. Connect every point with the nearest point of the form.*
 
 ### STEP one.two: ADD PARAMETERS.
